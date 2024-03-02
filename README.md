@@ -1,6 +1,4 @@
-Hi there! I'm Amit, a Web Developer from India with a passion for building scalable and optimized Angular applications. I'm a **2024 graduate** with a Bachelor's degree in Computer Science and Engineering from SVNIT, Surat.
-
-I'm **open to freelance opportunities** and always looking to collaborate on exciting projects. Feel free to reach out if you have one in mind!
+Hey👋, I'm Amit. I'm a Web Developer from India with a specialization in Angular-based projects. I'm open to all kinds of web development opportunities. So if you've a project idea or an ongoing project and want my collaboration you can always reach out to me.
 
 ## Links
 
