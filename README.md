@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there! I'm Amit, a Web Developer from India with a passion for building scalable and optimized Angular applications. I'm a **2024 graduate** with a Bachelor's degree in Computer Science and Engineering from SVNIT, Surat.
 
-<!--
-**AmitParekh1771/AmitParekh1771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **open to freelance opportunities** and always looking to collaborate on exciting projects. Feel free to reach out if you have one in mind!
 
-Here are some ideas to get you started:
+## Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/github.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/github.svg?color=black&height=40'><img alt='github logo' src='https://api.iconify.design/simple-icons/github.svg?color=black&height=40' height='40'></picture>](https://github.com/AmitParekh1771)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40'><img alt='linkedin logo' src='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=40' height='40'></picture>](https://www.linkedin.com/in/amit-parekh-b52885222/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40'><img alt='twitter logo' src='https://api.iconify.design/simple-icons/twitter.svg?color=black&height=40' height='40'></picture>](https://twitter.com/amitptwt)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/stackoverflow.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/stackoverflow.svg?color=black&height=40'><img alt='stackoverflow logo' src='https://api.iconify.design/simple-icons/stackoverflow.svg?color=black&height=40' height='40'></picture>](https://stackoverflow.com/users/16230556/amit-parekh)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/upwork.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/upwork.svg?color=black&height=40'><img alt='upwork logo' src='https://api.iconify.design/simple-icons/upwork.svg?color=black&height=40' height='40'></picture>](https://www.upwork.com/freelancers/~013cd1675525c1c460)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/icloud.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/icloud.svg?color=black&height=40'><img alt='website logo' src='https://api.iconify.design/simple-icons/icloud.svg?color=black&height=40' height='40'></picture>](https://amitparekh.netlify.app/)&nbsp; &nbsp;[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=white&height=40'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40'><img alt='mail logo' src='https://api.iconify.design/simple-icons/gmail.svg?color=black&height=40' height='40'></picture>](mailto:parekhamit04@gmail.com)
+
+## About Me
+
+- I'm a 2024 graduate from SVNIT, Surat with a bachelor's degree in Computer Science and Engineering.
+- I started learning web development in 2019 and since then I've built proficiency in developing scalable and optimized Angular apps.
+- For my side projects, I've always aimed to build real-world projects. Pins on my profile are some of my best projects deployed live.
+- I’ve participated in several hackathons during my college. In Flipkart GRID 5.0, I led my team to the submission round where we developed a Fashion Outfit Generator using OpenAI API.
+- In 2023, I got an opportunity to work as an SDE Summer Intern at GEP Worldwide where I contributed to my team in platform migration from NG8 to NG16.
+
+## Technical Skills
+
+[![Tech stack](https://skillicons.dev/icons?i=angular,typescript,reactivex,html,css,js,nodejs,express,mongodb,cpp,python,tailwind,bootstrap,xd,figma,firebase,netlify,vercel,git,github,npm,yarn,vite,webpack&perline=6)](https://skillicons.dev)
+
+## GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=AmitParekh1771&theme=dark" alt="GitHub Streak"/>
