@@ -10,7 +10,8 @@ Hey👋, I'm Amit. I'm a Web Developer from India with a specialization in Angul
 - I started learning web development in 2019 and since then I've built proficiency in developing scalable and optimized Angular apps.
 - For my side projects, I've always aimed to build real-world projects. Pins on my profile are some of my best projects deployed live.
 - I’ve participated in several hackathons during my college. In Flipkart GRID 5.0, I led my team to the submission round where we developed a Fashion Outfit Generator using OpenAI API.
-- In 2023, I got an opportunity to work as an SDE Summer Intern at GEP Worldwide where I contributed to my team in platform migration from NG8 to NG16.
+- In 2023, I worked as an SDE Summer Intern at GEP Worldwide where I contributed to my team in platform migration from NG8 to NG16.
+- And now, I'm full time SDE at GEP Worldwide.
 
 ## Technical Skills
 
